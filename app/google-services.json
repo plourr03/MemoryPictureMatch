@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "977935076977",
+    "project_id": "my-memory-game-98a11",
+    "storage_bucket": "my-memory-game-98a11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977935076977:android:22fa18714f13fb0e6f95d0",
+        "android_client_info": {
+          "package_name": "com.example.mymemorygame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977935076977-nf6qtltv0elmpge2nnr2ugv21975r4nc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxgRihzMTc590w1wvcBZSgOJ9fKTsd8f0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977935076977-nf6qtltv0elmpge2nnr2ugv21975r4nc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977935076977:android:79fd01214789e0de6f95d0",
+        "android_client_info": {
+          "package_name": "com.memory.memorypicturematch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977935076977-nf6qtltv0elmpge2nnr2ugv21975r4nc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxgRihzMTc590w1wvcBZSgOJ9fKTsd8f0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977935076977-nf6qtltv0elmpge2nnr2ugv21975r4nc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
